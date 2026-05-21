@@ -1,1 +1,1 @@
-import pantas as pd
+import pandas as pd
